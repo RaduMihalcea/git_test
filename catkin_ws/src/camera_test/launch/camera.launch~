@@ -1,0 +1,10 @@
+<launch>
+   
+    
+
+    <node name="ora"
+          pkg="camera_test"
+          type="ora.py"
+          output="screen" />
+    
+</launch>

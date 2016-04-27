@@ -1,0 +1,6 @@
+<launch>
+
+  <node  pkg="camera_test" type="" name="publisher.py">
+  </node>
+
+</launch>

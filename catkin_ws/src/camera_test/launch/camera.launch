@@ -1,0 +1,10 @@
+<launch>
+   
+    
+
+    <node name="rgb2grey"
+          pkg="camera_test"
+          type="rgb2grey.py"
+          output="screen" />
+    
+</launch>
